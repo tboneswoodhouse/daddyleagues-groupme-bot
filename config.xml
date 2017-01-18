@@ -10,7 +10,7 @@
 	<info>
 		<league>Fourth and Goal</league>
 		<commish>49ers, Giants</commish>
-        <admins>Ravens, Jets, Raiders, Chargers, Broncos</admins>
+		<admins>Ravens, Jets, Raiders, Chargers, Broncos</admins>
 		<rules>http://daddyleagues.com/4ng/rules</rules>
 		<owners>http://daddyleagues.com/4ng/coaches</owners>
 		<advance>1/18 8pm EST</advance>
@@ -37,46 +37,46 @@
 		<nostradamus>8ball</nostradamus>
 	</alias>
 	<twitch>
-		<buf>Leyethan</buf>
-		<mia/>NutOnEm</mia>
-		<ne/>Shinylobster</ne>
-		<nyj/>biker007547</nyj>
+		<buf>Leyethan <buf>
+		<mia/>NutOnEm <mia>	
+		<ne/>Shinylobster <ne>
+		<nyj/>biker007547<nyj>
 		
-		<bal/>xman1956</bal>
-		<cin/>KaaZOO1511</cin>
-		<cle/>mscarantino</cle>
-		<pit/>Daywheez</pit>
+		<bal/>xman1956<bal>
+		<cin/>KaaZOO1511<cin>
+		<cle/>mscarantino<cle>
+		<pit/>Daywheez<pit>
 		
-		<hou/>IIRPII</hou>
-		<ind/>dangeresque_2</ind>
-		<jax/>dberg595</jax>
+		<hou/>IIRPII<hou>
+		<ind/>dangeresque_2<ind>
+		<jax/>dberg595<jax>
 		<ten/>
 		
-		<den/>jaybizee77</den>
-		<kc/>xPEx_theSHIFT</kc>
-		<oak/>Forthy5thelement</oak>
-		<sd/>redizme67</sd>
+		<den/>jaybizee77<den>
+		<kc/>xPEx_theSHIFT<kc>
+		<oak/>Forthy5thelement<oak>
+		<sd/>redizme67<sd>
 		
-		<dal/>rkwittem</dal>
-		<nyg/>awflcfl</nyg>
-		<phi/>kydchaos</phi>
-		<was/>BBQ_WINGMAN</was>
+		<dal/>rkwittem<dal>
+		<nyg/>awflcfl<nyg>
+		<phi/>kydchaos<phi>
+		<was/>BBQ_WINGMAN<was>
 		
-		<chi/>bigmandy54</chi>
-		<det/>lookout216</det>
+		<chi/>bigmandy54<chi>
+		<det/>lookout216<det>
 		<gb/>
-		<min/>raytex3</min>
+		<min/>raytex3<min>
 		
-		<atl/>2literal4</atl>
-		<car/>dagrits</car>
-		<no/>widge567</no>
-		<tb/>jedimason</tb>
+		<atl/>2literal4<atl>
+		<car/>dagrits<car>
+		<no/>widge567<no>
+		<tb/>jedimason<tb>
 		
 		<ari/>
-		<sea/>diddyoif</sea>
-		<sf/>jdukes11</sf>
-		<la/>tvranau</la>
-	</twitch>
+		<sea/>diddyoif<sea>
+		<sf/>jdukes11<sf>
+		<la/>tvranau<la>
+	<twitch>
 	<magic8ball>
 		<reply>It is certain</reply>
 		<reply>It is decidedly so</reply>

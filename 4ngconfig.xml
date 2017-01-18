@@ -1,32 +1,34 @@
 <?xml version="1.0" standalone="yes"?>
 <all>
 	<config>
-		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
-		<cmdprefix>?</cmdprefix>
+		<baseurl>http://daddyleagues.com/4ng/</baseurl>
+		<league>4ng</league>
+		<cmdprefix>!</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
-		<owners>put owners link here</owners>
-		<advance>9/3, 5pm Central</advance>
-		<draft>9/3, 5pm Central</draft>
+		<league>Fourth and Goal</league>
+		<commish>49ers, Giants</commish>
+        <admins>Ravens, Jets, Raiders, Chargers, Broncos</admins>
+		<rules>http://daddyleagues.com/4ng/rules</rules>
+		<owners>http://daddyleagues.com/4ng/coaches</owners>
+		<advance>1/18 8pm EST</advance>
+		<draft>Don't worry about it</draft>
 		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
 	</info>
 	<img>
 		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
+		<cheese>http://www.automationheroes.com/wp-content/uploads/2013/11/tumblr_static_cheese_205_1362800142.jpg</cheese>
 		<ring>http://vignette3.wikia.nocookie.net/lotr/images/9/9b/TheOneRing.jpg</ring>
 	</img>
 	<youtube>
 	</youtube>
 	<custom>
-		<hello>hello world!</hello>
+		<hello>Hello World!</hello>
 		<tiebreakers>http://www.nfl.com/standings/tiebreakingprocedures</tiebreakers>
 	</custom>
-	<rings>
+	<rings>Bills 1, Colts 1, Panthers 1
 	</rings>
 	<alias>
 		<contact>owners</contact>
@@ -35,48 +37,46 @@
 		<nostradamus>8ball</nostradamus>
 	</alias>
 	<twitch>
-		<buf>sometwitchname</buf>
-		<mia/>
-		<ne/>
-		<nyj/>
+		<buf>Leyethan</buf>
+		<mia/>NutOnEm</mia>
+		<ne/>Shinylobster</ne>
+		<nyj/>biker007547</nyj>
 		
-		<bal/>
-		<cin/>
-		<cle/>
-		<pit/>
+		<bal/>xman1956</bal>
+		<cin/>KaaZOO1511</cin>
+		<cle/>mscarantino</cle>
+		<pit/>Daywheez</pit>
 		
-		<hou/>
-		<ind/>
-		<jax/>
+		<hou/>IIRPII</hou>
+		<ind/>dangeresque_2</ind>
+		<jax/>dberg595</jax>
 		<ten/>
 		
-		<den/>
-		<kc/>
-		<oak/>
-		<sd/>
+		<den/>jaybizee77</den>
+		<kc/>xPEx_theSHIFT</kc>
+		<oak/>Forthy5thelement</oak>
+		<sd/>redizme67</sd>
 		
-		<dal/>
-		<nyg/>
-		<phi/>
-		<was/>
+		<dal/>rkwittem</dal>
+		<nyg/>awflcfl</nyg>
+		<phi/>kydchaos</phi>
+		<was/>BBQ_WINGMAN</was>
 		
-		<chi/>
-		<det/>
+		<chi/>bigmandy54</chi>
+		<det/>lookout216</det>
 		<gb/>
-		<min/>
+		<min/>raytex3</min>
 		
-		<atl/>
-		<car/>
-		<no/>
-		<tb/>
+		<atl/>2literal4</atl>
+		<car/>dagrits</car>
+		<no/>widge567</no>
+		<tb/>jedimason</tb>
 		
 		<ari/>
-		<sea/>
-		<sf/>
-		<la/>
+		<sea/>diddyoif</sea>
+		<sf/>jdukes11</sf>
+		<la/>tvranau</la>
 	</twitch>
-	<simscores>
-	</simscores>
 	<magic8ball>
 		<reply>It is certain</reply>
 		<reply>It is decidedly so</reply>
